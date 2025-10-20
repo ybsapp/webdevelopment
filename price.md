@@ -12,14 +12,25 @@ YBS Sistem menawarkan jasa pembuatan aplikasi web yang lebih fleksibel dan trans
 
 ## Perbandingan dengan Jasa Pembuatan Website Lain
 
-| ⭐ **Fitur/Keunggulan**  | 🏆 **YBS Sistem**         | ❓ **Jasa Lain**           |
-| ------------------------ | ------------------------- | -------------------------- |
-| 💸 Harga per fungsi      | Mulai Rp350.000           | Paket fix, tidak fleksibel |
-| 📊 Dashboard             | Mulai Rp1.000.000         | Biasanya lebih mahal       |
-| 🚀 Pengembangan lanjutan | Ada, berkelanjutan        | Tidak dijamin              |
-| 🤝 Free konsultasi       | Ya                        | Tidak selalu               |
-| 🛡️ Fix bugs & update     | Komitmen berkelanjutan    | Tidak dijamin              |
-| ⚙️ Penentuan fitur       | Sesuai budget & kebutuhan | Terbatas pada paket        |
+| ⭐ **Fitur/Keunggulan**     | 🏆 **YBS Sistem**         | ❓ **Jasa Lain**           |
+| --------------------------- | ------------------------- | -------------------------- |
+| 💸 Harga per fungsi/halaman | Mulai Rp350.000           | Paket fix, tidak fleksibel |
+| 📊 Dashboard                | Mulai Rp1.000.000         | Biasanya lebih mahal       |
+| 🚀 Pengembangan lanjutan    | Ada, berkelanjutan        | Tidak dijamin              |
+| 🤝 Konsultasi               | Free                      | Tidak selalu               |
+| 🛡️ Fix bugs                 | Free                      | Tidak dijamin              |
+| 🔄 Update Fungsi/Halaman    | Mulai Rp300.000           | Tidak dijamin              |
+| ⚙️ Penentuan fitur          | Sesuai budget & kebutuhan | Terbatas pada paket        |
+
+> **Informasi Teknologi:**
+> Harga pada tabel di atas merupakan estimasi untuk web aplikasi yang dikembangkan menggunakan:
+>
+> - Core Sistem YBS
+> - Framework CodeIgniter 4
+> - Database MySQL
+> - Template Admin LTE 3
+
+> Untuk pengembangan aplikasi di luar teknologi tersebut, harga dapat dikonsultasikan lebih lanjut sesuai kebutuhan dan spesifikasi proyek Anda.
 
 ## Kesimpulan
 
@@ -40,10 +51,10 @@ Sebagai contoh, jika Anda ingin membuat fitur CRUD (Create, Read, Update, Delete
 > **Catatan Penting:**
 > Harga per fungsi atau per pembuatan halaman dihitung berdasarkan jumlah fungsional yang terdapat pada halaman tersebut. Jika satu halaman memiliki dua fungsi, misalnya terdapat resume total dan juga fungsi detail dari tiap resume, maka ini dihitung sebagai 2 fungsional (2 x Rp350.000). Dengan demikian, harga akan menyesuaikan jumlah fungsi yang diinginkan pada setiap halaman.
 
-> **Skenario Penentuan Fitur & Estimasi Harga**
-> Dengan sistem perhitungan ini, Anda dapat menentukan fitur atau fungsi mana yang ingin dibuat terlebih dahulu sesuai urgensi perusahaan dan budget yang tersedia. Setiap fungsi yang dipilih akan langsung terlihat estimasi harganya, sehingga Anda bisa menaksir harga kasar sebelum memutuskan fitur yang akan dikembangkan. Hal ini memudahkan perusahaan untuk memprioritaskan pengembangan aplikasi sesuai kebutuhan utama dan anggaran yang ada.
-
 ---
+
+**🏆 Skenario Penentuan Fitur & Estimasi Harga**
+Dengan sistem perhitungan ini, Anda dapat menentukan fitur atau fungsi mana yang ingin dibuat terlebih dahulu sesuai urgensi perusahaan dan budget yang tersedia. Setiap fungsi yang dipilih akan langsung terlihat estimasi harganya, sehingga Anda bisa menaksir harga kasar sebelum memutuskan fitur yang akan dikembangkan. Hal ini memudahkan perusahaan untuk memprioritaskan pengembangan aplikasi sesuai kebutuhan utama dan anggaran yang ada.
 
 📞 Jangan ragu untuk konsultasi secara gratis! YBS Sistem melayani kebutuhan aplikasi web mulai dari client personal, UMKM, perusahaan, hingga instansi pemerintah dan berbagai kalangan lainnya. Kami siap membantu dari skala kecil sampai besar, memberikan solusi terbaik sesuai kebutuhan dan anggaran Anda. Silakan hubungi kami untuk konsultasi tanpa biaya dan dapatkan layanan yang profesional serta berkelanjutan.
 
